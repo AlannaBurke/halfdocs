@@ -1,4 +1,6 @@
-# Vet Bill Assistance Programs
+# Vet Bill Help
+## Vet Bill Assistance Programs
+
 
 **The Onyx & Breezy Foundation**    
 [http://www.onyxandbreezy.org/](http://www.onyxandbreezy.org/)

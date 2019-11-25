@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Helping All Little Furries FAQs
+
+nav:
+  - Home: index.md
+  - Adopt: adopt.md
+  - Care: care.md
+  - Medical: 
+    - medical/cats.md
+    - medical/guineapigs.md
+    - medical/rabbits.md
+    - medical/rats.md
+  - Foster: fostering.md
+  - Vets: vets.md
+  - Shelters: shelters.md
+  - Vet Bill Help: programs.md
+
