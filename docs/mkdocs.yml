@@ -1,16 +1,19 @@
-site_name: Helping All Little Furries FAQs
+site_name: The Pipsqueakery FAQs
 
 nav:
   - Home: index.md
   - Adopt: adopt.md
-  - Care: care.md
-  - Medical: 
-    - medical/cats.md
-    - medical/guineapigs.md
-    - medical/rabbits.md
-    - medical/rats.md
+  - Animal Care: care.md
+  - Species: 
+    - care/chinchillas.md
+    - care/guineapigs.md
+    - care/hamsters.md
+    - care/hedgehogs.md
+    - care/mice.md
+    - care/rabbits.md
+    - care/rats.md
   - Foster: fostering.md
   - Vets: vets.md
-  - Shelters: shelters.md
-  - Vet Bill Help: programs.md
+  - Help: programs.md
+  - Surrender: surrender.md
 

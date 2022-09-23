@@ -1,10 +1,7 @@
-# Adoptions
-**All cats MUST be spayed or neutered before being adopted out, absolutely no exceptions.** They should also be up-to-date on shots and microchipped. 
+# Adopting a small animal
 
-Use an application. This gives you as much information as possible, and weeds out people who are not adopting in good faith. If someone is not willing to put in the effort to fill out an application, they are not going to put in the effort to take care of an animal. 
+Before adopting an animal, please do thorough research on their care. Small animals are often advertised as good "beginner" pets, but many of them require specialized care that is more complex than that of cats and dogs. You must also consider the lifespan of the animal, and considerations like "who will take care of my rabbit when I go to college?"
 
-Do not offer cats for free! Sadly, there are too many awful people in the world who will take them for nefarious purposes. Be diligent. Check out your potential adopters. Google them. Connect with them on social media. Insist on references, home checks, whatever it takes. Trust your gut. 
+Once you've decided on the kind of animal you'd like to adopt and you've learned about their care, you can check out our adoptable animals on petfinder" 
 
-Use petfinder! Take great pictures - clear, good lighting, showing off the cat’s personality. It’s worth it to take the time to write about what makes this cat special, what funny things they do, how sweet they are - make them appeal to adopters!
-
-## Barn & Working Cats
+We have an adoption application, which you can find here: [https://docs.google.com/forms/d/e/1FAIpQLSdU03MQsOq2zpR2KC8SWXm5sYqTDJVBYtGTVdnB_WkUkOwOYw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdU03MQsOq2zpR2KC8SWXm5sYqTDJVBYtGTVdnB_WkUkOwOYw/viewform)

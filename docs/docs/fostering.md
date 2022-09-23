@@ -1,17 +1,10 @@
 # Fostering
 ## Quarantining
 All animals brought into your house should be quaranited from both your pets and other fosters. This is for safety - you don't know what kind of illness they may be harboring, even if they appear completely healthy.
-## Bottle Feeders
-[The Kitten Lady](http://www.kittenlady.org/savekittens) has excellent resources on caring for kittens of all ages. 
 
-Here is a link to her book:
-
-[Tiny But Mighty: Kitten Lady's Guide to Saving the Most Vulnerable Felines](https://www.amazon.com/Tiny-But-Mighty-Vulnerable-Felines/dp/1524744069/)
-
-Here is a study about how a vitamin and mineral supplement increased survival rates in kittens: [https://www.ncbi.nlm.nih.gov/pubmed/30920335](https://www.ncbi.nlm.nih.gov/pubmed/30920335)
 
 ## Supplies
-Here's what recommend having on hand if you intend on regularly caring for young kittens.
+Here's what recommend having on hand if you intend on regularly caring for small animals. Read on for species-specific care.
 
  * General supplies
     * paper towels
@@ -28,7 +21,7 @@ Here's what recommend having on hand if you intend on regularly caring for young
     * non clumping litter (paper litter is great)
     * blue dawn dish soap
  * Feeding
-    * Kitten food, wet and dry
+    * Pellets
     * KMR (Kittem Milk Replacer)
     * Kitten bottles * nipples (miracle nipples are great)
     * syringes
