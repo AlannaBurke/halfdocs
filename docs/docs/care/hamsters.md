@@ -135,6 +135,10 @@ backs to bend and can cause sore back or paralysis.
 ## Not getting along
 ## Spraying/Marking
 
+# Emergencies
 
+## Cold Weather
+
+## Hot Weather
 
 

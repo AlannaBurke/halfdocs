@@ -110,3 +110,9 @@ sure that apple tree branches come from a pesticide-free yard.
 ## Biting Humans
 ## Not getting along
 ## Spraying/Marking
+
+# Emergencies
+
+## Cold Weather
+
+## Hot Weather

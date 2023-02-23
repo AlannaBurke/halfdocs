@@ -4,4 +4,8 @@ Before adopting an animal, please do thorough research on their care. Small anim
 
 Once you've decided on the kind of animal you'd like to adopt and you've learned about their care, you can check out our adoptable animals on petfinder" 
 
+## Adopting from The Pipsqueakery
+
+## Adopting from Helping All Little Pipsqueaks
+
 We have an adoption application, which you can find here: [https://docs.google.com/forms/d/e/1FAIpQLSdU03MQsOq2zpR2KC8SWXm5sYqTDJVBYtGTVdnB_WkUkOwOYw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdU03MQsOq2zpR2KC8SWXm5sYqTDJVBYtGTVdnB_WkUkOwOYw/viewform)

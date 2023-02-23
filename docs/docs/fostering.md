@@ -1,9 +1,11 @@
 # Fostering
+
 ## Quarantining
+
 All animals brought into your house should be quaranited from both your pets and other fosters. This is for safety - you don't know what kind of illness they may be harboring, even if they appear completely healthy.
 
-
 ## Supplies
+
 Here's what recommend having on hand if you intend on regularly caring for small animals. Read on for species-specific care.
 
  * General supplies

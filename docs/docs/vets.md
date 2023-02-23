@@ -59,8 +59,6 @@ Zip Code | Vet | Recommended | Extended Hours |
 Zip Code | Vet | Recommended | Extended Hours |
 ------------ | ------------- | ----- | -------
 
-
-
 ## Mobile Vets
 
 [House Paws Mobile Vet](https://housepaws.us/)

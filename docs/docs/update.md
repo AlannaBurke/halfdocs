@@ -1,3 +1,5 @@
+# Updating this Guide
+
 This guide is a living document, and we encourage you to submit updates or additions!
 
 It is hosted by GitHub, so if you're familiar with contributing to Git repositories and submitting pull requests, you can check out the code here: https://github.com/AlannaBurke/halfdocs

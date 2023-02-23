@@ -14,7 +14,9 @@ Follow us on:
 [Instagram](https://www.instagram.com/the_pipsqueakery/)   
 
 ## Support The Pipsqueakery!
+
 ### Donate
+
 [Amazon Wish List](https://www.amazon.com/registry/wishlist/1I1FE7B3QBAK/ref=cm_sw_r_cp_ep_ws_BcBjzbSTE6EMB)  
 [Donate with The PayPal Giving Fund](http://paypal.com/us/fundraiser/charity/1464955)  
 [Donate via PayPal](http://paypal.me/thepipsqueakery)  
@@ -42,6 +44,7 @@ Follow us on:
 * Cleaning Supplies
 
 ### What to keep in your car
+
 * Cat Carrier
 * Cat Trap
 * Trap Cover
