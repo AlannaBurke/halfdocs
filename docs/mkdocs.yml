@@ -2,6 +2,7 @@ site_name: The Pipsqueakery FAQs
 
 nav:
   - Home: index.md
+  - HALP: halp.md
   - Adopt: adopt.md
   - Animal Care by Species: 
     - care/chinchillas.md
