@@ -5,7 +5,7 @@ We have only included vets who advertise or that we know treat small animals. If
 that, too. (It doesn't mean the vets we haven't recommended are bad - just that
 we don't know them personally!)
 
-If you'd like us to add or update a vet listing, see here for how to submit an update: [link]().
+If you'd like us to add or update a vet listing, see here for how to submit an update: [update.md](update.md).
 
 ## Pennsylvania Vets by Zip Code
 

@@ -13,31 +13,28 @@ Follow us on:
 [Twitter](https://twitter.com/thepipsqueakery)   
 [Instagram](https://www.instagram.com/the_pipsqueakery/)   
 
-
 ## Support The Pipsqueakery!
 ### Donate
 [Amazon Wish List](https://www.amazon.com/registry/wishlist/1I1FE7B3QBAK/ref=cm_sw_r_cp_ep_ws_BcBjzbSTE6EMB)  
-[Donate via Amazon Smile](https://smile.amazon.com/ch/81-1655640)  
 [Donate with The PayPal Giving Fund](http://paypal.com/us/fundraiser/charity/1464955)  
 [Donate via PayPal](http://paypal.me/thepipsqueakery)  
 [Venmo](http://venmo.com/thepipsqueakery)  
 [Pledge on Patreon](http://www.patreon.com/thepipsqueakery)  
 [Chewy Wishlist](https://www.chewy.com/g/the-pipsqueakery-inc_b69832307)  
 
+## How Can I Foster?
 
-### Foster
-Email [info@catadelphia.org](mailto:info@catadelphia.org)
+## I Found an Animal - What do I do?
 
-
-## I found an animal - What do I do?
 * Is it a pet?
 * Is it a wild animal?
   * How to tell a wild rabbit from a pet rabbit 
 * Is it a farm animal?
 
-
 ## Rescue Kit
+
 ### What to have at home
+
 * Critical Care
 * Water
 * Clean fleece/bedding
@@ -56,22 +53,27 @@ Email [info@catadelphia.org](mailto:info@catadelphia.org)
 
 ## Emergencies
 
+### Medical emergencies
 
-## Wildlife
-*  **Never** attempt to feed wildlife. Always handle wildlife with gloves, or you may be putting it at risk for euthanasia, as well as putting yourself at risk for disease.
-* Contact the following wildlife centers for advice or to surrender wildlife in distress. 
+Small animals can be very delicate, so it's best to be prepared for an emergency. See our section on care for each species to know what to expect. You can also view our list of vets to help find an emergency small animal vet near you.
 
-### Pennsylvania
+### Wildlife
+
+**Never** attempt to feed wildlife. Always handle wildlife with gloves, or you may be putting it at risk for euthanasia, as well as putting yourself at risk for disease.
+  
+Contact the following wildlife centers for advice or to surrender wildlife in distress.
+
+#### Pennsylvania
 
 * [Philadelphia Metro Wildlife Center](https://www.phillywildlife.org)
 * [Aark Wildlife Rehabilitation and Education Center](https://www.aark.org)  
 
-### New Jersey
+#### New Jersey
 
-### Indiana
+#### Indiana
 
-### New York
+#### New York
 
-### New Hampshire
+#### New Hampshire
 
-### Massachusetts
+#### Massachusetts

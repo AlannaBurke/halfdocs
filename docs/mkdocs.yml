@@ -3,8 +3,7 @@ site_name: The Pipsqueakery FAQs
 nav:
   - Home: index.md
   - Adopt: adopt.md
-  - Animal Care: care.md
-  - Species: 
+  - Animal Care by Species: 
     - care/chinchillas.md
     - care/guineapigs.md
     - care/hamsters.md
